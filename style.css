@@ -1,4 +1,4 @@
-.login
+/* .login
 {
 
 
@@ -24,18 +24,25 @@
     border-radius: 5px;
     background-color: rgb(199, 169, 18);
     font-size: 20px;
-}
+} */
 
-.label-name
-{
-    font-size: 20px;
+.label-name{
+ font-size: 20px;
     font-weight: bold;
     background: 20px;
 }
-.pass-word
-{
+.user-name{
     margin: 4px;
-    background: 25px;
-    font-size: 24px;
-    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: white;
 }
+.login-button{
+    margin-top: 15px;
+    background: yellow;
+    border: 1px solid black;
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+}
+
