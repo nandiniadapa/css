@@ -93,7 +93,10 @@ body{
     text:bold;
     align-items: center;
 }
-.confirm-password{
-
-    
+.nandini{
+    display:flex;
+    flex-direction: column; 
+    flex-wrap: wrap;
+    text:bold;
+    align-items: center;
 }
