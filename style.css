@@ -34,3 +34,9 @@
     font-size: 21px;
     font-weight: bold;
 }
+.input-field{
+    display: flex;
+    flex-direction: column;
+    height: 24px;
+    border-radius: 5px;
+}
