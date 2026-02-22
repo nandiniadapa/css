@@ -9,3 +9,19 @@
     border: 1px solid #b4ce56e6;
     
 }
+.login input
+{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #b4ce56e6;
+    border-radius: 5px;
+}
+.login button
+{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #b4ce56e6;
+    border-radius: 5px;
+    background-color: rgb(199, 169, 18);
+    font-size: 20px;
+}
