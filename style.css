@@ -26,18 +26,16 @@
     font-size: 20px;
 }
 
-.submit-btn{
-    margin-top: 10px;
-}
-
-.label-name{
-    font-size: 21px;
+.label-name
+{
+    font-size: 20px;
     font-weight: bold;
+    background: 20px;
 }
-.input-field{
-    display: flex;
-    flex-direction: column;
-    height: 24px;
-    border-radius: 5px;
-    color: black;
+.pass-word
+{
+    margin: 4px;
+    background: 25px;
+    font-size: 24px;
+    font-weight: bold;
 }
