@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Register Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E9EDF5;
+        }
+
+        .container {
+            width: 500px;
+            margin: 40px auto;
+            background-color: #DCE8E1;
+            padding: 25px 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-top: 6px solid #1FA84A;
+        }
+
+        h2 {
+            color: #1F2937;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: bold;
+            color: #1F2937;
+            display: block;
+            margin-top: 15px;
+            margin-bottom: 6px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #D0D5D2;
+            background-color: #F2F4F3;
+            font-size: 14px;
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        input:focus, textarea:focus {
+            border-color: #1FA84A;
+            background-color: #FFFFFF;
+        }
+
+        textarea {
+            resize: none;
+            height: 90px;
+        }
+
+        .btn {
+            margin-top: 22px;
+            width: 100%;
+            padding: 13px;
+            background-color: #1FA84A;
+            color: white;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #188F3F;
+        }
+    
