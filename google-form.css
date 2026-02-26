@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>College Student Registration Form</title>
+
+<style>
+.body{
+    background-color:#f0ebf8;
+    font-family: Arial, sans-serif;
+    margin:30px;
+    padding:20px
+}
+
+.form-container{
+    width:600px;
+    margin:40px auto;
+}
+
+.header{
+    background-color:#673ab7;
+    height:10px;
+    border-radius:8px 8px 0 0;
+}
+
+.form-box{
+    background:white;
+    padding:30px;
+    border-radius:0 0 8px 8px;
+    box-shadow:0 2px 6px rgba(0,0,0,0.2);
+}
+
+h2{
+    margin-top:40px;
+    color:#202124;
+}
+
+.label{
+    display:block;
+    margin-top:20px;
+    font-weight:bold;
+    color:#202124;
+}
+
+input, select, textarea{
+    width:100%;
+    padding:10px;
+    margin-top:8px;
+    border:none;
+    border-bottom:1px solid #dadce0;
+    font-size:14px;
+}
+
+input:focus, select:focus, textarea:focus{
+    outline:none;
+    border-bottom:2px solid #673ab7;
+}
+
+.radio-group, .checkbox-group{
+    margin-top:10px;
+}
+
+button{
+    background-color:#673ab7;
+    color:white;
+    padding:10px 25px;
+    border:none;
+    border-radius:4px;
+    margin-top:25px;
+    cursor:pointer;
+}
+
+button:hover{
+    background-color:#5e35b1;
+}
+
+
